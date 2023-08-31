@@ -1,5 +1,5 @@
 import unittest
-from division import divide_numbers
+from div import divide_numbers
 
 class TestDivision(unittest.TestCase):
     def test_positive_numbers(self):
